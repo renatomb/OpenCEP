@@ -7,7 +7,7 @@ Consulte CEPs de todo o Brasil Grátis e sem Limites. Totalmente Open Source e a
 ### Super fácil de usar e integrar com todas as plataformas:
 
 ```markdown
-(https://api.opencep.com/v1/15050305.json)api.opencep.com/v1/15050305.json
+api.opencep.com/v1/15050305.json
 ```
 
 ### Use a nossa collection no Postman:

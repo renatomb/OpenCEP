@@ -1,4 +1,4 @@
-## OpenCEP - WebService de CEP
+## OpenCEP - WebService de CEP do Brasil
 
 Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?
 

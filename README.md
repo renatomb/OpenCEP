@@ -1,4 +1,4 @@
-## OpenCEP - WebService de CEP do Brasil
+## OpenCEP - WebService de CEP
 
 Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?
 
@@ -6,12 +6,14 @@ Consulte CEPs de todo o Brasil e tenha certeza do que esta usando, totalmente Op
 
 ### Super fácil de usar e integrar com todas as plataformas:
 ```markdown
-GET:
 api.opencep.com/v1/15050305.json
 ```
 
 ### Achou um CEP incorreto?
-Faça um pull request e pronto. Todo mundo atualizado juntos!
+Faça um pull request e pronto. Simples, prático e eficiente!
+
+### Atualização:
+Ultima atualização dos correios: 2021
 
 ```markdown
 Syntax highlighted code block

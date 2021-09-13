@@ -18,10 +18,12 @@ opencep.com/v1/15050305.json
 ```
 ou acesse: opencep.com/v1/15050305.json
 
-### Cansou de esperar? Use a nossa resposta em até 20 ms:
+### Cansou de esperar? Use a nossa resposta média de 50 ms:
 
-Usamos JAMSTACK e com isso fica super rápido e disponível com SLA de 99,99%. Teste você mesmo!
+Não importa onde esta localizado o seu servidor usamos uma CDN global junto com a metodologia
+JAMSTACK e isso deixa super rápido e disponível com SLA de 99,99% e ainda Grátis!
 
+Teste você mesmo!
 
 ### HTTPS sempre e CORS livre!
 
@@ -29,7 +31,7 @@ Compátivel com todas as APIs e plataformas.
 
 ### Achou um CEP incorreto?
 
-Faça um pull request e pronto. Simples, prático e eficiente!
+Faça um pull request com os dados corretos. Simples, prático e eficiente!
 
 ### Atualização dos Correios?!
 

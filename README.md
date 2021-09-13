@@ -1,44 +1,39 @@
-## OpenCEP - WebService de CEP
+## OpenCEP - WebService de CEP para E-Commerce, Correios, NFe, CTE!
 
 Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?
 
-Consulte CEPs de todo o Brasil e tenha certeza do que esta usando, totalmente Open Source e altamente disponível usando Github Page + CDN CloudFlare!
+Consulte CEPs de todo o Brasil Grátis e sem Limites. Totalmente Open Source e altamente disponível usando Github Page + CDN CloudFlare!
 
 ### Super fácil de usar e integrar com todas as plataformas:
+
+```markdown
+(https://api.opencep.com/v1/15050305.json)api.opencep.com/v1/15050305.json
+```
+
+### Use a nossa collection no Postman:
+
 ```markdown
 api.opencep.com/v1/15050305.json
 ```
 
+### Cansou de esperar? Use a nossa resposta em até 25 ms:
+
+Teste você mesmo! Nossa api super rápida e estável.
+
+
+### HTTPS sempre e CORS livre!
+
+Compátivel com todas as APIs e plataformas!
+
 ### Achou um CEP incorreto?
+
 Faça um pull request e pronto. Simples, prático e eficiente!
 
-### Atualização:
-Ultima atualização dos correios: 2021
+### Atualização dos Correios?!
 
-```markdown
-Syntax highlighted code block
+Materemos sempre atualizadas a base de dados junto com os Correios!
+Última atualização em 09/2021!
 
-# Header 1
-## Header 2
-### Header 3
+### Achou algum erro?!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeuAliado/OpenCEP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Abra um Issue no GitHub!.

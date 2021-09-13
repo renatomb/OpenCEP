@@ -1,5 +1,5 @@
 ## OpenCEP
-###  WebService de CEP para E-Commerce, ERP, NFe e muito mais!
+###  WebService de CEP Grátis para E-Commerce, ERP, NFe e muito mais!
 
 Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?
 

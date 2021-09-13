@@ -1,12 +1,17 @@
-## OpenCEP - WebService Colaborativo de CEP
+## OpenCEP - WebService de CEP
 
-You can use the [editor on GitHub](https://github.com/SeuAliado/OpenCEP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Consulte CEPs de todo o Brasil e tenha certeza do que esta usando, totalmente Open Source e altamente disponível usando Github Page + CDN CloudFlare!
 
-### Markdown
+### Super fácil de usar e integrar com todas as plataformas:
+```markdown
+GET:
+api.opencep.com/v1/15050305.json
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Achou um CEP incorreto?
+Faça um pull request e pronto. Todo mundo atualizado juntos!
 
 ```markdown
 Syntax highlighted code block

@@ -20,7 +20,7 @@ ou acesse: opencep.com/v1/15050305.json
 
 ### Cansou de esperar? Use a nossa resposta em até 20 ms:
 
-Usamos JAMSTACK e com isso fica super rápido e disponível com SLA de 100%. Teste você mesmo!
+Usamos JAMSTACK e com isso fica super rápido e disponível com SLA de 99,99%. Teste você mesmo!
 
 
 ### HTTPS sempre e CORS livre!

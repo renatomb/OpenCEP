@@ -1,10 +1,9 @@
-## OpenCEP - WebService de CEP para E-Commerce, Correios, NFe, CTE!
-###  WebService de CEP
-####  Usado em E-Commerce e NFe e muito mais!
+## OpenCEP
+###  WebService de CEP para E-Commerce, ERP, NFe e muito mais!
 
 Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?
 
-Consulte CEPs de todo o Brasil Grátis e sem Limites. Totalmente Open Source e altamente disponível usando Github Page + CDN CloudFlare!
+Consulte CEPs de todo o Brasil Grátis e sem Limites. Totalmente Open Source e altamente disponível usando GitHub Page + CDN CloudFlare!
 
 ### Super fácil de usar e integrar com todas as plataformas:
 
@@ -18,9 +17,9 @@ api.opencep.com/v1/15050305.json
 api.opencep.com/v1/15050305.json
 ```
 
-### Cansou de esperar? Use a nossa resposta em até 25 ms:
+### Cansou de esperar? Use a nossa resposta em até 20 ms:
 
-Teste você mesmo! Nossa api super rápida e estável.
+Usamos JAMSTACK e com isso fica super rápido e disponível com SLA de 100%. Teste você mesmo!
 
 
 ### HTTPS sempre e CORS livre!

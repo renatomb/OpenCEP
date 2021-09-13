@@ -11,11 +11,12 @@ Consulte CEPs de todo o Brasil Grátis e sem Limites. Totalmente Open Source e a
 api.opencep.com/v1/15050305.json
 ```
 
-### Use a nossa collection no Postman:
+### Use todas as integração em várias linguagens no Postman:
 
 ```markdown
-api.opencep.com/v1/15050305.json
+opencep.com/v1/15050305.json
 ```
+ou acesse: opencep.com/v1/15050305.json
 
 ### Cansou de esperar? Use a nossa resposta em até 20 ms:
 
@@ -24,7 +25,7 @@ Usamos JAMSTACK e com isso fica super rápido e disponível com SLA de 100%. Tes
 
 ### HTTPS sempre e CORS livre!
 
-Compátivel com todas as APIs e plataformas!
+Compátivel com todas as APIs e plataformas.
 
 ### Achou um CEP incorreto?
 
@@ -32,9 +33,9 @@ Faça um pull request e pronto. Simples, prático e eficiente!
 
 ### Atualização dos Correios?!
 
-Materemos sempre atualizadas a base de dados junto com os Correios!
-Última atualização em 09/2021!
+Atualizamos a base de dados junto com os Correios.
+Última atualização em 2021!
 
 ### Achou algum erro?!
 
-Abra um Issue no GitHub!.
+Abra um Issue no GitHub.

@@ -28,14 +28,18 @@ JAMSTACK e isso deixa super rápido e disponível com SLA de 99,99% e ainda Grá
 
 Teste você mesmo!
 
+### HTTPS sempre e CORS livre!
+
+Compátivel com todas as APIs e plataformas.
+
 ### Não quer depender de nenhuma API? Coloque no seu servidor!
 
 Faça download de todo o reposirório e hospede em qualquer hospedagem.
 Clique aqui para fazer download!
 
-### HTTPS sempre e CORS livre!
+### Quer fazer download de toda a base de dados em um só grande arquivo?
 
-Compátivel com todas as APIs e plataformas.
+Também temos diposnível para facilitar a sua vida e importar em outros sistemas!
 
 ### Achou um CEP incorreto?
 

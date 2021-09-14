@@ -3,7 +3,10 @@
 
 Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?
 
-Consulte CEPs de todo o Brasil Grátis e sem Limites. Totalmente Open Source e altamente disponível usando GitHub Page + CDN CloudFlare!
+Consulte CEPs de todo o Brasil Grátis e sem Limites.
+100% Open Source e altamente disponível usando GitHub Page + CDN CloudFlare!
+
+Perfeito para autocomplete e preenchimento de informações!
 
 ### Super fácil de usar e integrar com todas as plataformas:
 

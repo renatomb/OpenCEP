@@ -6,8 +6,9 @@ Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consu
 Consulte CEPs de todo o Brasil Grátis e sem Limites.
 100% Open Source e altamente disponível usando GitHub Page + CDN CloudFlare!
 
-A maior e mais completa API!
-TOTAL DE CEPs: 1.172.276
+A maior e mais completa API.
+
+<b>Total de CEPs: 1.172.276</b>
 
 Perfeito para autocomplete e preenchimento de informações!
 

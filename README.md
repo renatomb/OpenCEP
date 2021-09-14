@@ -38,7 +38,7 @@ Compátivel com todas as APIs e plataformas.
 
 ### Não quer depender de nenhuma API? Coloque no seu servidor!
 
-Faça download de todo o reposirório e hospede em qualquer hospedagem.
+Faça download de todo o repositório e hospede em qualquer hospedagem.
 Clique aqui para fazer download!
 
 ### Achou um CEP incorreto?

@@ -28,9 +28,9 @@ JAMSTACK e isso deixa super rápido e disponível com SLA de 99,99% e ainda Grá
 
 Teste você mesmo!
 
-### Não quer depender de nenhuma API? Baixe tudo aqui.
+### Não quer depender de nenhuma API? Coloque no seu servidor!
 
-Faça download de todo o reposirório e hospede em qualquer lugar pois são arquivos estáticos.
+Faça download de todo o reposirório e hospede em qualquer hospedagem.
 Clique aqui para fazer download!
 
 ### HTTPS sempre e CORS livre!

@@ -37,10 +37,6 @@ Compátivel com todas as APIs e plataformas.
 Faça download de todo o reposirório e hospede em qualquer hospedagem.
 Clique aqui para fazer download!
 
-### Quer fazer download de toda a base de dados em um só grande arquivo?
-
-Também temos diposnível para facilitar a sua vida e importar em outros sistemas!
-
 ### Achou um CEP incorreto?
 
 Faça um pull request com os dados corretos. Simples, prático e eficiente!
@@ -53,3 +49,7 @@ Atualizamos a base de dados junto com os Correios.
 ### Achou algum erro?!
 
 Abra um Issue no GitHub.
+
+### Sugestões?! Críticas?!
+
+Abra um chamado que vamos ficar feliz em ajudar!

@@ -50,6 +50,9 @@ Atualizamos a base de dados junto com os Correios.
 
 Abra um Issue no GitHub.
 
+### Agradecimento
+Em especial ao @renatosbc que disponibilizou um começo atualizado para a biblioteca!
+
 ### Sugestões?! Críticas?!
 
 Abra um chamado que vamos ficar feliz em ajudar!

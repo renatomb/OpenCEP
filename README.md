@@ -21,7 +21,7 @@ opencep.com/v1/15050305.json
 ```
 ou acesse: opencep.com/v1/15050305.json
 
-### Cansou de esperar? Use a nossa resposta média de 50 ms:
+### Cansou de esperar? Api até 10z mais rápido com resposta média de 50 ms:
 
 Não importa onde esta localizado o seu servidor usamos uma CDN global junto com a metodologia
 JAMSTACK e isso deixa super rápido e disponível com SLA de 99,99% e ainda Grátis!

@@ -24,10 +24,7 @@ opencep.com/v1/15050305.json
 
 ### Use todas as integração em várias linguagens no Postman:
 
-```markdown
-opencep.com/v1/15050305
-```
-ou acesse: opencep.com/v1/15050305.json
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3084518-e1c46f9e-fd0d-4cb6-8d02-0ba532273e5a?action=collection%2Ffork&collection-url=entityId%3D3084518-e1c46f9e-fd0d-4cb6-8d02-0ba532273e5a%26entityType%3Dcollection%26workspaceId%3D121752ec-9dfc-4ea6-8ad0-9e3fe06c3558)
 
 ### Cansou de esperar? Api até 10X mais Rápido com resposta média de 50 ms:
 

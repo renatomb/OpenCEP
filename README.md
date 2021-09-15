@@ -15,13 +15,13 @@ Perfeito para autocomplete e preenchimento de informações!
 ### Super fácil de usar e integrar com todas as plataformas:
 
 ```markdown
-api.opencep.com/v1/15050305.json
+api.opencep.com/v1/15050305
 ```
 
 ### Use todas as integração em várias linguagens no Postman:
 
 ```markdown
-opencep.com/v1/15050305.json
+opencep.com/v1/15050305
 ```
 ou acesse: opencep.com/v1/15050305.json
 

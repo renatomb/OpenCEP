@@ -8,7 +8,7 @@ Consulte CEPs de todo o Brasil Grátis e sem Limites.
 
 A maior e mais completa API.
 
-<b>Total de CEPs: 1.172.276</b>
+Um total <b>1.172.276 CEPs</b> válidos!
 
 Perfeito para autocomplete e preenchimento de informações!
 

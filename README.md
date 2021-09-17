@@ -51,10 +51,16 @@ Faça um pull request com os dados corretos. Simples, prático e eficiente!
 Atualizamos a base de dados junto com os Correios.
 Última atualização em 2021!
 
-### Achou algum erro?!
+### Achou um erro?
 
 Abra um Issue no GitHub.
 
-### Sugestões?! Críticas?!
+### Sugestões ou Críticas?!
 
 Abra um chamado que vamos ficar feliz em ajudar!
+
+### Gostou e quer ajudar?
+
+Um star no gihub ajuda muitoooooo!!!!
+
+Obrigado!

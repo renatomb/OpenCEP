@@ -61,6 +61,6 @@ Abra um chamado que vamos ficar feliz em ajudar!
 
 ### Gostou e quer ajudar?
 
-Um star no gihub ajuda muitoooooo!!!!
+Um star no gihub ajuda muito!!!!
 
 Obrigado!

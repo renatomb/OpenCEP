@@ -6,6 +6,7 @@ Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consu
 Consulte CEPs de todo o Brasil Grátis e sem Limites.
 100% Open Source e altamente disponível usando GitHub Page + CDN CloudFlare!
 
+### Alternativa ao ViaCep e Busca 
 A maior e mais completa API.
 
 Um total <b>1.171.270 CEPs</b> válidos!
@@ -39,8 +40,10 @@ Compátivel com todas as APIs e plataformas.
 
 ### Não quer depender de nenhuma API? Coloque no seu servidor!
 
-Faça download de todo o repositório e hospede em qualquer hospedagem.
+Faça download do banco de dados dos correios ibge e CEP em nosso repositório e hospede em qualquer hospedagem.
 Clique aqui para fazer download!
+
+### Alternativa para Busca CEP dos Correios, ViaCEP e API Consulta CEP!
 
 ### Achou um CEP incorreto?
 

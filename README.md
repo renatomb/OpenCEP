@@ -1,4 +1,4 @@
-## OpenCEP - Gateway Grátis
+## OpenCEP - Gateway e WebService Grátis
 ###  WebService de CEP e IBGE Grátis para E-Commerce, ERP, NFe e muito mais!
 
 Cansado do sistema dos Correios fora do ar? ou ainda pagar por uma simples consulta de CEP?

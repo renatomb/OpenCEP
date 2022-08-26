@@ -41,7 +41,6 @@ Compátivel com todas as APIs e plataformas.
 ### Não quer depender de nenhuma API? Coloque no seu servidor!
 
 Faça download do banco de dados dos correios ibge e CEP em nosso repositório e hospede em qualquer hospedagem.
-Clique aqui para fazer download!
 
 ### Alternativa para Busca CEP dos Correios, ViaCEP e API Consulta CEP!
 

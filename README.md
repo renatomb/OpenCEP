@@ -50,8 +50,7 @@ Faça um pull request com os dados corretos. Simples, prático e eficiente!
 
 ### Atualização dos Correios?!
 
-Atualizamos a base de dados junto com os Correios.
-Última atualização em 2021!
+Atualizamos frequentemente a base de dados junto com os Correios!
 
 ### Achou um erro?
 
